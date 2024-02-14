@@ -5,9 +5,28 @@ The SOLANA App is a comprehensive platform designed to support individuals affec
 
 The followig is acomplete description of each feature.
 
+
+
+
+https://github.com/930r91na/Solana/assets/93169706/bbbd436d-66d9-4fd6-b06a-8e66c431f5c3
+
+
+
+
 [SOLANA APP.pdf](https://github.com/930r91na/Solana/files/14289166/SOLANA.APP.pdf)
 
 
 The following is a usability analysis of the current prototype.
 
+
 [SOLANA.pdf](https://github.com/930r91na/Solana/files/14289167/SOLANA.pdf)
+[SOLANA APP.pptx](https://github.com/930r91na/Solana/files/14289189/SOLANA.APP.pptx)
+
+
+
+
+
+
+
+
+Contributors: @GeorginaZeronCabrera, @AlejandroZepeda, @AndreaLimaBlanca, @DiegoGasparisEscobedo
